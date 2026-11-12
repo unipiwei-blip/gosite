@@ -669,3 +669,32 @@ table{border-collapse:collapse}
 .oem-figure img{width:100%;display:block}
 .oem-figure figcaption{font-size:13px;color:var(--muted);margin-top:14px}
 .oem-actions{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:24px}
+
+/* ---------- 自定义 404 ---------- */
+.err-body{min-height:100vh;display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(160deg,#f5f9ff,#e8f1ff);padding:44px 18px}
+.err-wrap{width:100%;max-width:960px;text-align:center;background:#fff;
+  border:1px solid var(--line);border-radius:26px;padding:44px 32px;box-shadow:var(--shadow-lg)}
+.err-brand{display:inline-flex;align-items:center;justify-content:center;gap:10px;margin-bottom:16px}
+.err-brand img{width:40px;height:40px}
+.err-code{font-size:clamp(72px,12vw,118px);font-weight:800;line-height:1;
+  background:linear-gradient(100deg,var(--blue-deep),var(--brand));
+  -webkit-background-clip:text;background-clip:text;color:transparent}
+.err-wrap h1{font-size:clamp(22px,3vw,30px);font-weight:800;margin:12px 0 10px}
+.err-lead{font-size:15px;color:var(--ink-2);max-width:660px;margin:0 auto}
+.err-en{font-size:13px;color:var(--muted);margin-top:8px}
+.err-links{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:26px auto 0;max-width:780px}
+.err-links a{border:1px solid var(--line);border-radius:99px;padding:7px 17px;
+  font-size:13.5px;color:var(--ink-2);background:#fff}
+.err-links a:hover{border-color:var(--blue);color:var(--blue-deep);background:rgba(26,107,255,.05)}
+.err-friends{margin-top:30px;padding-top:20px;border-top:1px solid var(--line)}
+.err-friends h2{font-size:13px;letter-spacing:.12em;color:var(--muted);font-weight:800;margin-bottom:14px}
+.err-friend-list{display:flex;justify-content:center;gap:6px 14px;flex-wrap:wrap;font-size:12.5px}
+.err-friend-list a{color:var(--blue-deep)}
+.err-friend-list a:hover{text-decoration:underline}
+.err-footer{font-size:12px;color:#93a4bf;margin-top:24px}
+
+/* 友情链接增至 10 条后的页脚收紧 */
+.footer-grid{padding-bottom:6px}
+.footer-full{margin-top:10px;padding:6px 14px;gap:3px 9px;font-size:11.5px}
+.footer-bottom{margin-top:5px}

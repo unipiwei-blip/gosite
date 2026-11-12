@@ -1,4 +1,14 @@
 User-agent: *
 Allow: /
+Allow: /assets/
 
+User-agent: Baiduspider
+Allow: /
+Allow: /assets/
+
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+
+Host: www.gosite.com.cn
 Sitemap: https://www.gosite.com.cn/sitemap.xml
