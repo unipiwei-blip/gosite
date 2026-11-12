@@ -12,23 +12,23 @@ Key facts:
 - 咨询方式：微信扫码，工作日 9:00–18:00（GMT+8）。
 
 ## Chinese pages
-- 首页: https://www.gosite.com/
-- 服务总览: https://www.gosite.com/services.html
-- 价格套餐: https://www.gosite.com/pricing.html
-- 跨境极站全球版: https://www.gosite.com/global.html
-- 案例展示: https://www.gosite.com/cases.html
-- 关于极站: https://www.gosite.com/about.html
-- 联系我们: https://www.gosite.com/contact.html
-- 网站地图: https://www.gosite.com/sitemap.html
+- 首页: https://www.gosite.com.cn/
+- 服务总览: https://www.gosite.com.cn/services.html
+- 价格套餐: https://www.gosite.com.cn/pricing.html
+- 跨境极站全球版: https://www.gosite.com.cn/global.html
+- 案例展示: https://www.gosite.com.cn/cases.html
+- 关于极站: https://www.gosite.com.cn/about.html
+- 联系我们: https://www.gosite.com.cn/contact.html
+- 网站地图: https://www.gosite.com.cn/sitemap.html
 
 ## English pages
-- Home: https://www.gosite.com/en/
-- Services: https://www.gosite.com/en/services.html
-- Pricing: https://www.gosite.com/en/pricing.html
-- Work: https://www.gosite.com/en/cases.html
-- About: https://www.gosite.com/en/about.html
-- Contact: https://www.gosite.com/en/contact.html
-- Sitemap: https://www.gosite.com/en/sitemap.html
+- Home: https://www.gosite.com.cn/en/
+- Services: https://www.gosite.com.cn/en/services.html
+- Pricing: https://www.gosite.com.cn/en/pricing.html
+- Work: https://www.gosite.com.cn/en/cases.html
+- About: https://www.gosite.com.cn/en/about.html
+- Contact: https://www.gosite.com.cn/en/contact.html
+- Sitemap: https://www.gosite.com.cn/en/sitemap.html
 
-Canonical domain: https://www.gosite.com
+Canonical domain: https://www.gosite.com.cn
 Last updated: 2026-11-12
