@@ -650,3 +650,13 @@ table{border-collapse:collapse}
 @media(max-width:720px){
   .footer .f-col{padding:6px 0}
 }
+
+/* ---------- 内容时间点 ---------- */
+.article-time{font-variant-numeric:tabular-nums;color:var(--blue-deep);font-weight:700}
+.article-card .article-meta{font-size:12px}
+.article-date{font-size:13px;color:var(--muted);margin:-16px auto 26px;text-align:center}
+.article-figure figcaption .article-time{color:var(--muted);font-weight:600}
+.page-hero p.one-line{max-width:1100px}
+@media(min-width:900px){
+  .page-hero p.one-line{white-space:nowrap}
+}

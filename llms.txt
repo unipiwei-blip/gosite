@@ -9,7 +9,7 @@ Key facts:
 - 微信商城小程序：9980 元起/首年，次年续费 3980 元/年。
 - 以上价格均不含域名。域名推荐在创享互联 www.gdiis.com 注册。
 - 案例讲解六维度：构思与定位、框架结构、风格与配色、SEO 搜索优化、GEO 跨境本地化、CRO 转化体验。网站设计与案例讲解均按此框架展开。
-- 案例与资讯栏目汇总案例讲解、建站观察与行业资讯，三列可翻页。
+- 案例与资讯栏目汇总站点公告、案例讲解、建站观察与行业资讯，按发布时间由新到旧排列，三列可分类筛选与翻页；站点公告记录 www.gosite.com.cn 产品上线与服务定位。
 - 开放加盟代理（服务商）：国内预存 3000 元人民币，中国以外国家 500 美元；OEM 宣传网站与定期宣传海报；城市内发展超 100 家企业站点后归唯一服务商统一管理；企业名片、数字人、媒体矩阵系统后期同样适用合作体系。
 - 团队：在韩国攻读硕博的学生团队设计制作，牵头人 PI WEI 为在读人工智能博士；项目为读博期间结合 AI 与同学共同开发。
 - 联系渠道：微信、WhatsApp、LINE、Messenger、KAKAO 二维码；工作日 9:00–18:00（GMT+8）。
@@ -42,6 +42,7 @@ Key facts:
 - 中小企业官网：从「有没有」到「能不能被搜到」: https://www.gosite.com.cn/article-trend-1.html
 - 多语言站点正在成为出海的基础设施: https://www.gosite.com.cn/article-trend-2.html
 - AI 问答改变了官网内容的写法: https://www.gosite.com.cn/article-trend-3.html
+- www.gosite.com.cn 正式上线：AI 建站 + 包维护，让官网更快上线也更快被搜到: https://www.gosite.com.cn/article-launch.html
 
 ## English pages
 - Home: https://www.gosite.com.cn/en/
@@ -67,6 +68,7 @@ Key facts:
 - Small Business Websites: From Existing to Being Found: https://www.gosite.com.cn/en/article-trend-1.html
 - Multilingual Sites Are Becoming Export Infrastructure: https://www.gosite.com.cn/en/article-trend-2.html
 - AI Answers Are Changing How Website Copy Is Written: https://www.gosite.com.cn/en/article-trend-3.html
+- www.gosite.com.cn Is Live: AI Website Building with Ongoing Care: https://www.gosite.com.cn/en/article-launch.html
 
 Canonical domain: https://www.gosite.com.cn
 Last updated: 2026-11-12
