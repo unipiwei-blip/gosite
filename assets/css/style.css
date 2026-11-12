@@ -660,3 +660,12 @@ table{border-collapse:collapse}
 @media(min-width:900px){
   .page-hero p.one-line{white-space:nowrap}
 }
+
+/* ---------- OEM 宣传网站样板 ---------- */
+.oem-figure{max-width:980px;margin:0 auto}
+.oem-figure a{display:block;border:1px solid var(--line);border-radius:18px;overflow:hidden;
+  background:#fff;box-shadow:var(--shadow-lg);transition:transform .25s,box-shadow .25s}
+.oem-figure a:hover{transform:translateY(-4px);box-shadow:0 32px 70px rgba(16,62,150,.2)}
+.oem-figure img{width:100%;display:block}
+.oem-figure figcaption{font-size:13px;color:var(--muted);margin-top:14px}
+.oem-actions{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:24px}
