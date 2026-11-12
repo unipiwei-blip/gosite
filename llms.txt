@@ -1,26 +1,27 @@
-# 极站 GoSite / 跨境极站 GOSITE Global
+# 极站 · AI 建站 / 跨境极站 GoSite
 
 > AI 建站服务：纯静态中文官网最快当天上线，页面结构与内容按百度、谷歌与 AI 问答可读的方式组织；全球版交付中英双语站点与不同国家语言关键词优化。
 
 Key facts:
-- 中文版品牌：极站 GoSite；全球版（英文站）品牌：跨境极站 / GOSITE Global。
-- 极站中文官网：399 元/年（限时，每月前 10 名且资料齐全）、998 元/年（标准，含每季度至少一套宣传海报设计并推广）。仅含中文网站，含全年内容更新代运营。
-- 跨境极站全球版：1998 元/站点，包含中文与英文两套页面、语言与地区标注、国家语言关键词优化、结构化数据、全球 CDN 访问协助与高安全性；更多语言 360 元/语种整站翻译。
-- 微信商城小程序：9980 元起/首年，次年续费 3980 元/年，按功能范围报价。
-- 以上价格均不含域名。域名推荐在创享互联 www.gdiis.com 注册，便于统一解析、发布与百度、谷歌站点管理监控和优化。
-- 开放加盟代理：国内预存 1800 元人民币，境外统一 300 美元；提供同类型业务宣传网站，享优惠结算价；一年成功服务客户 30 家以上或退出可全额退费。
-- 最快当天上线；改稿当天发布；纯静态架构、HTTPS、版本回滚与全球 CDN 分发。
-- 收录配置：独立标题与描述、规范链接、hreflang、结构化数据、站点地图与 robots.txt，正文按 AI 问答可引用的事实段落组织。
-- 团队：在韩国攻读硕博的学生团队设计制作，牵头人 PI WEI 为在读人工智能博士，有多年互联网从业与创业经历，运营过多个互联网平台；项目为读博期间结合 AI 与同学共同开发。
+- 中文版品牌：极站 · AI 建站（GoSite）；全球版品牌：跨境极站 GoSite / GOSITE Global。
+- 极站中文官网：399 元/年（限时最低，每月前 10 名且资料齐全）、998 元/年（标准，包含全部 399 功能与每季度至少一套宣传海报设计并推广）。仅含中文网站，含全年内容更新代运营。
+- 跨境极站全球版：1998 元/站点（仅限中英文），包含全部 998 功能与中英双语页面、语言标注、国家关键词优化、全球 CDN；更多语言 360 元/语种整站翻译。
+- 微信商城小程序：9980 元起/首年，次年续费 3980 元/年。
+- 以上价格均不含域名。域名推荐在创享互联 www.gdiis.com 注册。
+- 案例讲解六维度：构思与定位、框架结构、风格与配色、SEO 搜索优化、GEO 跨境本地化、CRO 转化体验。网站设计与案例讲解均按此框架展开。
+- 案例与资讯栏目汇总案例讲解、建站观察与行业资讯，三列可翻页。
+- 开放加盟代理（服务商）：国内预存 3000 元人民币，中国以外国家 500 美元；OEM 宣传网站与定期宣传海报；城市内发展超 100 家企业站点后归唯一服务商统一管理；企业名片、数字人、媒体矩阵系统后期同样适用合作体系。
+- 团队：在韩国攻读硕博的学生团队设计制作，牵头人 PI WEI 为在读人工智能博士；项目为读博期间结合 AI 与同学共同开发。
 - 联系渠道：微信、WhatsApp、LINE、Messenger、KAKAO 二维码；工作日 9:00–18:00（GMT+8）。
 
 ## Chinese pages
 - 首页: https://www.gosite.com.cn/
 - 关于我们: https://www.gosite.com.cn/about.html
-- 价格套餐: https://www.gosite.com.cn/pricing.html
-- 跨境极站全球版: https://www.gosite.com.cn/global.html
+- 案例与资讯: https://www.gosite.com.cn/hub.html
 - 案例展示: https://www.gosite.com.cn/cases.html
 - 建站观察: https://www.gosite.com.cn/news.html
+- 价格套餐: https://www.gosite.com.cn/pricing.html
+- 跨境极站全球版: https://www.gosite.com.cn/global.html
 - 微信商城小程序: https://www.gosite.com.cn/miniprogram.html
 - 开放加盟代理: https://www.gosite.com.cn/partner.html
 - 联系我们: https://www.gosite.com.cn/contact.html
@@ -38,13 +39,17 @@ Key facts:
 - AI 问答时代的内容结构：事实段落、FAQ 与结构化数据: https://www.gosite.com.cn/article-geo.html
 - 官网配色怎么定：主色、强调色与可读性: https://www.gosite.com.cn/article-palette.html
 - 多语言站点的语言标注与关键词布局: https://www.gosite.com.cn/article-multilang.html
+- 中小企业官网：从「有没有」到「能不能被搜到」: https://www.gosite.com.cn/article-trend-1.html
+- 多语言站点正在成为出海的基础设施: https://www.gosite.com.cn/article-trend-2.html
+- AI 问答改变了官网内容的写法: https://www.gosite.com.cn/article-trend-3.html
 
 ## English pages
 - Home: https://www.gosite.com.cn/en/
 - About Us: https://www.gosite.com.cn/en/about.html
-- Pricing: https://www.gosite.com.cn/en/pricing.html
+- Cases & Insights: https://www.gosite.com.cn/en/hub.html
 - Work: https://www.gosite.com.cn/en/cases.html
 - Insights: https://www.gosite.com.cn/en/news.html
+- Pricing: https://www.gosite.com.cn/en/pricing.html
 - WeChat Mall: https://www.gosite.com.cn/en/miniprogram.html
 - Partner Programme: https://www.gosite.com.cn/en/partner.html
 - Contact: https://www.gosite.com.cn/en/contact.html
@@ -59,6 +64,9 @@ Key facts:
 - Why Static Pages Are Easier for Search Engines and AI Answers to Read: https://www.gosite.com.cn/en/article-static-seo.html
 - Colour and Hierarchy in a Conversion-Focused Homepage: https://www.gosite.com.cn/en/article-color.html
 - Language Tags and Keyword Layout for Multilingual Sites: https://www.gosite.com.cn/en/article-multilang.html
+- Small Business Websites: From Existing to Being Found: https://www.gosite.com.cn/en/article-trend-1.html
+- Multilingual Sites Are Becoming Export Infrastructure: https://www.gosite.com.cn/en/article-trend-2.html
+- AI Answers Are Changing How Website Copy Is Written: https://www.gosite.com.cn/en/article-trend-3.html
 
 Canonical domain: https://www.gosite.com.cn
 Last updated: 2026-11-12
