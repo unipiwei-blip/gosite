@@ -499,6 +499,20 @@ table{border-collapse:collapse}
   padding:24px 26px;box-shadow:var(--shadow);text-align:center}
 .prose-block h3{font-size:17px;font-weight:800;margin-bottom:10px}
 .prose-block p{font-size:14.5px;color:var(--ink-2);line-height:1.9}
+/* 公告类长文：列表与表格沿用居中版式 */
+.article-list{list-style:none;padding:0;margin:14px 0 0;text-align:center}
+.article-list li{font-size:14.5px;color:var(--ink-2);line-height:1.9;margin:7px 0}
+.article-list li::before{content:"· ";color:var(--blue-deep);font-weight:800}
+.article-table-wrap{overflow-x:auto;margin-top:16px}
+.article-table{width:100%;border-collapse:collapse;font-size:13.5px;text-align:center}
+.article-table th{background:rgba(26,107,255,.08);color:var(--ink);font-weight:800;
+  padding:10px 8px;border:1px solid var(--line)}
+.article-table td{padding:10px 8px;border:1px solid var(--line);color:var(--ink-2);line-height:1.7}
+.article-table tbody tr:nth-child(even){background:rgba(26,107,255,.025)}
+@media(max-width:600px){
+  .article-table{font-size:12.5px}
+  .article-table th,.article-table td{padding:8px 5px}
+}
 
 /* ---------- 联系渠道二维码 ---------- */
 .qr-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:18px;max-width:1080px;margin:0 auto}
