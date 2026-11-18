@@ -455,10 +455,13 @@ table{border-collapse:collapse}
 /* ---------- 价格卡附加链接 / 域名说明 ---------- */
 .price-extra{display:block;margin-top:12px;font-size:12.5px;color:var(--blue-deep);text-decoration:underline}
 .price-extra:hover{color:var(--brand)}
-.notice-box{max-width:900px;margin:26px auto 0;background:rgba(26,107,255,.06);
+.notice-box{max-width:1180px;margin:26px auto 0;background:rgba(26,107,255,.06);
   border:1px solid rgba(26,107,255,.16);border-radius:18px;padding:22px 24px;text-align:center}
 .notice-box h3{font-size:16px;font-weight:800;margin-bottom:8px}
 .notice-box p{font-size:13.5px;color:var(--ink-2);line-height:1.8}
+@media(min-width:1000px){
+  .notice-box p{white-space:nowrap}
+}
 
 /* ---------- 安全要点 ---------- */
 .security-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
