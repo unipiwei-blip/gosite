@@ -60,10 +60,16 @@
     if (!controls || !cards.length) { return; }
     var page = 1;
     var cat = 'all';
+    if (window.location.hash) {
+      var wanted = window.location.hash.slice(1);
+      var hit = filters.filter(function (b) { return b.getAttribute('data-cat') === wanted; })[0];
+      if (hit) { cat = wanted; hit.classList.add('active'); filters.forEach(function (b) { if (b !== hit) b.classList.remove('active'); }); }
+    }
 
     function matches() {
       return cards.filter(function (c) {
-        return cat === 'all' || c.getAttribute('data-cat') === cat;
+        var cats = (c.getAttribute('data-cat') || '').split(/\s+/);
+        return cat === 'all' || cats.indexOf(cat) !== -1;
       });
     }
 
