@@ -33,6 +33,7 @@ Key facts:
 - 莞湘投资咨询 案例讲解: https://www.gosite.com.cn/case-guanxiang.html
 - 逆龄韶华生命科技 案例讲解: https://www.gosite.com.cn/case-niling.html
 - 雷一鸣工作室 案例讲解: https://www.gosite.com.cn/case-leiyiming.html
+- 惠州市工程师学会 案例讲解: https://www.gosite.com.cn/case-hzie.html
 - 商协会门户的栏目结构：从首屏到服务体系: https://www.gosite.com.cn/article-layout.html
 - 转化型首页的色彩与信息层级：以才猎天下为例: https://www.gosite.com.cn/article-color.html
 - 纯静态站点为什么更容易被百度和谷歌读懂: https://www.gosite.com.cn/article-static-seo.html
@@ -64,6 +65,7 @@ Key facts:
 - Guanxiang Investment Consulting Case Study: https://www.gosite.com.cn/en/case-guanxiang.html
 - Niling Life Science Case Study: https://www.gosite.com.cn/en/case-niling.html
 - Lei Yiming Studio Case Study: https://www.gosite.com.cn/en/case-leiyiming.html
+- Huizhou Institute of Engineers Case Study: https://www.gosite.com.cn/en/case-hzie.html
 - Why Static Pages Are Easier for Search Engines and AI Answers to Read: https://www.gosite.com.cn/en/article-static-seo.html
 - Colour and Hierarchy in a Conversion-Focused Homepage: https://www.gosite.com.cn/en/article-color.html
 - Language Tags and Keyword Layout for Multilingual Sites: https://www.gosite.com.cn/en/article-multilang.html
