@@ -506,7 +506,9 @@ table{border-collapse:collapse}
 .article-card h3 a:hover{color:var(--blue-deep)}
 .article-card p{font-size:13.5px;color:var(--muted);line-height:1.75;margin-bottom:12px}
 .article-meta{font-size:12px;color:#93a4bf;margin-bottom:16px}
-.article-body{max-width:860px;margin:34px auto 0;display:grid;gap:16px}
+.article-body{max-width:860px;margin:34px auto 0}
+.article-body h3{font-size:18px;font-weight:800;margin:26px 0 10px;color:var(--ink)}
+.article-body p{margin:0 0 16px;font-size:15px;line-height:1.95;color:var(--ink-2)}
 .prose-block{background:#fff;border:1px solid var(--line);border-radius:18px;
   padding:24px 26px;box-shadow:var(--shadow);text-align:center}
 .prose-block h3{font-size:17px;font-weight:800;margin-bottom:10px}
@@ -737,4 +739,15 @@ table{border-collapse:collapse}
 @media(max-width:600px){
   .addon-row{grid-template-columns:1fr;gap:4px;text-align:center}
   .addon-row small{font-size:12px}
+}
+
+/* ---------- 文章排版：正文与小标题统一段首空两字符（2026-11-23 定稿） ---------- */
+.prose p,.prose h2,.prose h3,.prose h4,
+.prose-block p,.prose-block h2,.prose-block h3,.prose-block h4,
+.article-body p,.article-body h2,.article-body h3,.article-body h4,
+.article-figure figcaption,
+.faq details p,.faq summary,
+details p,details summary{
+  text-align:left;
+  text-indent:2em;
 }
