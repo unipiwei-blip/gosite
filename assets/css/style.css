@@ -777,12 +777,12 @@ a.card{color:inherit;text-decoration:none;display:block}
 a.card:hover{text-decoration:none}
 a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-size:14px}
 /* 三类方案：三种背景色 */
-.card-tone-1{background:linear-gradient(160deg,#eef4ff,#d3e3ff);border-color:#9fc0ff}
-.card-tone-2{background:linear-gradient(160deg,#f6edff,#e5d4ff);border-color:#c9aeff}
-.card-tone-3{background:linear-gradient(160deg,#edf8f5,#cdeee4);border-color:#9ad9c6}
-.card-tone-1:hover{border-color:#1a6bff}
-.card-tone-2:hover{border-color:#7c4ad0}
-.card-tone-3:hover{border-color:#2fa58a}
+.card-tone-1{background:#fff;border:2px solid var(--brand);box-shadow:0 14px 36px rgba(238,59,47,.10)}
+.card-tone-2{background:#fff;border:2px solid var(--blue);box-shadow:0 14px 36px rgba(26,107,255,.12)}
+.card-tone-3{background:#fff;border:2px solid #7c4ad0;box-shadow:0 14px 36px rgba(124,74,208,.12)}
+.card-tone-1:hover{border-color:#c52d24}
+.card-tone-2:hover{border-color:#0b47d6}
+.card-tone-3:hover{border-color:#5a2fa0}
 /* 痛点与方案卡片：淡色背景 */
 .card-tone-pain{background:linear-gradient(160deg,#f6f9ff,#e9f1ff);border-color:#c4d8ff}
 .card-tone-plan{background:linear-gradient(160deg,#f7f5ff,#eee8ff);border-color:#d2c8ff}
@@ -816,3 +816,7 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
   .price-card-h .pc-h-left{border-right:0;border-bottom:1px solid var(--line);padding:0 0 16px}
   .price-card-h .pc-h-right ul{grid-template-columns:1fr}
 }
+
+.pc-h-meta{display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+.pc-h-meta .orig{margin-top:0}
+.price-card-h .pc-h-right .price-extra{margin-top:14px;display:inline-block}
