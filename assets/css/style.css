@@ -767,3 +767,26 @@ details p,details summary{
 .choose-guide a{color:var(--blue-deep);font-weight:700;text-decoration:underline}
 
 .static-pager{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;margin-top:26px}
+
+/* ---------- 卡片分色 / 整卡可点 / 浅底数字（2026-11-26） ---------- */
+a.card{color:inherit;text-decoration:none;display:block}
+a.card:hover{text-decoration:none}
+a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-size:14px}
+/* 三类方案：三种背景色 */
+.card-tone-1{background:linear-gradient(160deg,#eef5ff,#ddeaff);border-color:#bcd4ff}
+.card-tone-2{background:linear-gradient(160deg,#f6efff,#e9dcff);border-color:#d8c3ff}
+.card-tone-3{background:linear-gradient(160deg,#eafaf6,#d5f2e8);border-color:#b8e6d4}
+.card-tone-1:hover{border-color:#7fa9ff}
+.card-tone-2:hover{border-color:#b48cf5}
+.card-tone-3:hover{border-color:#6fc9a8}
+/* 痛点与方案卡片：淡色背景 */
+.card-tone-pain{background:linear-gradient(160deg,#fff7f5,#ffece7);border-color:#ffcfc2}
+.card-tone-plan{background:linear-gradient(160deg,#f3f8ff,#e8f1ff);border-color:#c8dcff}
+.card .sec-title{font-size:17px;font-weight:800;color:var(--ink);margin-bottom:10px}
+.card .props{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-top:14px}
+.card .props span{background:rgba(255,255,255,.75);border-radius:99px;padding:4px 12px;font-size:12.5px;color:var(--blue-deep);font-weight:700}
+/* 浅色区块上的数字：深色文字 */
+.stat-light .stat{background:rgba(255,255,255,.75);border-color:rgba(26,107,255,.18)}
+.stat-light .stat b{color:var(--blue-deep)}
+.stat-light .stat span{color:var(--muted)}
+.stat-light .stat:first-child b,.stat-light .stat:last-child b{color:var(--brand)}
