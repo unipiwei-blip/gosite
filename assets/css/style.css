@@ -264,7 +264,7 @@ table{border-collapse:collapse}
 .price-grid{display:grid;gap:18px;align-items:stretch}
 .price-grid-3{grid-template-columns:repeat(3,minmax(0,1fr));max-width:1080px;margin:0 auto}
 .price-grid-mall{grid-template-columns:minmax(0,1fr);max-width:1080px;margin:18px auto 0}
-.price-grid-mall .price-card{max-width:360px;width:100%}
+.price-grid-mall .price-card{max-width:none;width:100%}
 .price-grid-3 .price-card ul li{white-space:nowrap;overflow:visible;text-overflow:clip}
 .price-card{
   position:relative;background:#fff;border:1px solid var(--line);border-radius:var(--r);
@@ -777,12 +777,12 @@ a.card{color:inherit;text-decoration:none;display:block}
 a.card:hover{text-decoration:none}
 a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-size:14px}
 /* 三类方案：三种背景色 */
-.card-tone-1{background:linear-gradient(160deg,#f0f6ff,#dbe9ff);border-color:#a9c8ff}
-.card-tone-2{background:linear-gradient(160deg,#f5f2ff,#e2dcff);border-color:#c5bcff}
-.card-tone-3{background:linear-gradient(160deg,#eff7ff,#d7e7ff);border-color:#a8c9f5}
+.card-tone-1{background:linear-gradient(160deg,#eef4ff,#d3e3ff);border-color:#9fc0ff}
+.card-tone-2{background:linear-gradient(160deg,#f6edff,#e5d4ff);border-color:#c9aeff}
+.card-tone-3{background:linear-gradient(160deg,#edf8f5,#cdeee4);border-color:#9ad9c6}
 .card-tone-1:hover{border-color:#1a6bff}
 .card-tone-2:hover{border-color:#7c4ad0}
-.card-tone-3:hover{border-color:#3d6fd8}
+.card-tone-3:hover{border-color:#2fa58a}
 /* 痛点与方案卡片：淡色背景 */
 .card-tone-pain{background:linear-gradient(160deg,#f6f9ff,#e9f1ff);border-color:#c4d8ff}
 .card-tone-plan{background:linear-gradient(160deg,#f7f5ff,#eee8ff);border-color:#d2c8ff}
@@ -796,8 +796,23 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .stat-light .stat:first-child b,.stat-light .stat:last-child b{color:var(--brand)}
 
 /* 方案卡 5 项时第二行两卡铺平 */
-.grid.g3.card-plan-grid .card:nth-child(4){grid-column:1/2}
-.grid.g3.card-plan-grid .card:nth-child(5){grid-column:2/4}
-.price-grid-mall .price-card{padding-top:16px;padding-bottom:16px}
-.price-grid-mall .price-card .kind{margin-top:0}
-.price-grid-mall .price-card ul{margin-top:10px}
+.card-plan-grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+.card-plan-grid .card{grid-column:span 2}
+.card-plan-grid .card:nth-child(4),.card-plan-grid .card:nth-child(5){grid-column:span 3}
+@media(max-width:900px){.card-plan-grid{grid-template-columns:1fr 1fr}.card-plan-grid .card,
+.card-plan-grid .card:nth-child(4),.card-plan-grid .card:nth-child(5){grid-column:span 1}}
+@media(max-width:600px){.card-plan-grid{grid-template-columns:1fr}}
+.price-grid-mall .price-card{max-width:none;width:100%}
+.price-grid-mall .price-card-h{display:grid;grid-template-columns:300px 1fr;gap:28px;align-items:center;
+  padding:24px 30px;text-align:left}
+.price-card-h .pc-h-left{text-align:center;border-right:1px solid var(--line);padding-right:24px}
+.price-card-h .pc-h-right{text-align:left}
+.price-card-h .pc-h-right ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 18px;margin:0}
+.price-card-h .pc-h-right li{font-size:13.5px}
+.price-card-h .pc-h-actions{margin-top:16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.price-card-h .price-extra{margin-top:0}
+@media(max-width:760px){
+  .price-grid-mall .price-card-h{grid-template-columns:1fr;gap:16px;padding:22px 18px}
+  .price-card-h .pc-h-left{border-right:0;border-bottom:1px solid var(--line);padding:0 0 16px}
+  .price-card-h .pc-h-right ul{grid-template-columns:1fr}
+}
