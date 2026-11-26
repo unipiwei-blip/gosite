@@ -820,3 +820,5 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .pc-h-meta{display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
 .pc-h-meta .orig{margin-top:0}
 .price-card-h .pc-h-right .price-extra{margin-top:14px;display:inline-block}
+
+.pc-h-kind{margin-top:14px;color:var(--muted);font-size:13px;text-align:right}
