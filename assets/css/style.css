@@ -283,7 +283,7 @@ table{border-collapse:collapse}
 .price-card .amount{font-size:34px;font-weight:800;color:var(--ink);line-height:1.25;margin:8px 0 2px}
 .price-card .amount.hot{color:var(--brand)}
 .price-card .amount.gl{color:var(--blue-deep)}
-.price-card .unit{font-size:13px;color:var(--muted)}
+.price-card .unit{font-size:13px;color:var(--muted);margin-left:6px;font-weight:600}
 .price-card .orig{font-size:12.5px;color:#93a4bf;text-decoration:line-through;margin-top:4px}
 .price-card .orig.plain{text-decoration:none;color:var(--muted)}
 .price-card ul{margin:18px 0 22px;text-align:center;flex:1}
