@@ -21,6 +21,9 @@ Key facts:
 - 案例展示: https://www.gosite.com.cn/cases.html
 - 建站观察: https://www.gosite.com.cn/news.html
 - 价格套餐: https://www.gosite.com.cn/pricing.html
+- 企业官网展示方案: https://www.gosite.com.cn/solution-enterprise.html
+- 商协会与机构官网方案: https://www.gosite.com.cn/solution-association.html
+- 跨境电商与出海企业官网方案: https://www.gosite.com.cn/solution-crossborder.html
 - 跨境极站全球版: https://www.gosite.com.cn/global.html
 - 微信商城小程序: https://www.gosite.com.cn/miniprogram.html
 - 开放加盟代理: https://www.gosite.com.cn/partner.html
@@ -55,6 +58,11 @@ Key facts:
 - 跨境电商官网怎么做：先让客户看懂公司，再让客户看懂产品: https://www.gosite.com.cn/article-crossborder-company-site-20261126.html
 - 多语言本地化不是翻译：跨境官网让谷歌和 AI 读懂的三个层面: https://www.gosite.com.cn/article-crossborder-localization-20261126.html
 - 产品展示型出海站怎么设计：从分类、详情到转化的页面结构: https://www.gosite.com.cn/article-crossborder-product-showcase-20261126.html
+- 案例与资讯第2页: https://www.gosite.com.cn/hub-2.html
+- 案例与资讯第3页: https://www.gosite.com.cn/hub-3.html
+- 案例与资讯第4页: https://www.gosite.com.cn/hub-4.html
+- 案例与资讯第5页: https://www.gosite.com.cn/hub-5.html
+- 建站观察第2页: https://www.gosite.com.cn/news-2.html
 
 ## English pages
 - Home: https://www.gosite.com.cn/en/
@@ -84,6 +92,8 @@ Key facts:
 - Multilingual Sites Are Becoming Export Infrastructure: https://www.gosite.com.cn/en/article-trend-2.html
 - AI Answers Are Changing How Website Copy Is Written: https://www.gosite.com.cn/en/article-trend-3.html
 - www.gosite.com.cn Is Live: AI Website Building with Ongoing Care: https://www.gosite.com.cn/en/article-launch.html
+- Cases page 2: https://www.gosite.com.cn/en/hub-2.html
+- Cases page 3: https://www.gosite.com.cn/en/hub-3.html
 
 Canonical domain: https://www.gosite.com.cn
 Last updated: 2026-11-26
