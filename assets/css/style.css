@@ -821,5 +821,7 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .pc-h-meta .orig{margin-top:0}
 .price-card-h .pc-h-right .price-extra{margin-top:14px;display:inline-block}
 
-.pc-h-kind-li a{color:var(--blue-deep);font-weight:700;text-decoration:underline}
-.pc-h-kind-li a:hover{color:var(--brand)}
+.pc-h-kind-li::before{content:none !important}
+.pc-h-kind-li{padding-left:0}
+.pc-h-kind-li a{color:var(--brand);font-weight:800;text-decoration:underline;text-underline-offset:3px}
+.pc-h-kind-li a:hover{color:#c52d24}
