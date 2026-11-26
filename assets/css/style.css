@@ -825,3 +825,19 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .pc-h-kind-li{padding-left:0}
 .pc-h-kind-li a{color:var(--brand);font-weight:800;text-decoration:underline;text-underline-offset:3px}
 .pc-h-kind-li a:hover{color:#c52d24}
+
+/* 关于我们 · 定位与三件套 */
+.position-block{max-width:900px;margin:0 auto 30px;background:#fff;border:1px solid var(--line);
+  border-radius:20px;padding:26px 30px;box-shadow:var(--shadow)}
+.position-lead{text-align:center;font-size:18px;color:var(--ink);margin-bottom:20px;line-height:1.8}
+.position-lead b{color:var(--brand)}
+.position-trio{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.trio-item{display:flex;flex-direction:column;align-items:center;gap:6px;padding:16px 10px;
+  background:#f6f9ff;border-radius:14px}
+.trio-n{font-size:12px;font-weight:800;color:var(--muted);letter-spacing:.1em}
+.trio-item b{font-size:26px;font-weight:800}
+.trio-item>span:last-child{font-size:14px;color:var(--muted)}
+.t-blue{color:var(--blue)}
+.t-purple{color:#7c4ad0}
+.t-teal{color:#0f9c7c}
+@media(max-width:600px){.position-trio{grid-template-columns:1fr}}
