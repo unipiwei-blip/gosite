@@ -52,6 +52,9 @@ Key facts:
 - 国内官网 SEO 实操：从标题写法到百度收录的六个动作: https://www.gosite.com.cn/article-cn-seo-checklist-20261123.html
 - 海外 GEO 实操：让谷歌和 AI 问答读懂你的英文站: https://www.gosite.com.cn/article-global-geo-checklist-20261123.html
 - 极站 GoSite 服务与套餐升级公告：三档官网，按目标选: https://www.gosite.com.cn/article-plans-upgrade-20261123.html
+- 跨境电商官网怎么做：先让客户看懂公司，再让客户看懂产品: https://www.gosite.com.cn/article-crossborder-company-site-20261126.html
+- 多语言本地化不是翻译：跨境官网让谷歌和 AI 读懂的三个层面: https://www.gosite.com.cn/article-crossborder-localization-20261126.html
+- 产品展示型出海站怎么设计：从分类、详情到转化的页面结构: https://www.gosite.com.cn/article-crossborder-product-showcase-20261126.html
 
 ## English pages
 - Home: https://www.gosite.com.cn/en/
@@ -83,4 +86,4 @@ Key facts:
 - www.gosite.com.cn Is Live: AI Website Building with Ongoing Care: https://www.gosite.com.cn/en/article-launch.html
 
 Canonical domain: https://www.gosite.com.cn
-Last updated: 2026-11-23
+Last updated: 2026-11-26
