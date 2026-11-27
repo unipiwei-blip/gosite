@@ -79,6 +79,9 @@ Key facts:
 - 官网最快当天上线，到底是怎么做到的: https://www.gosite.com.cn/article-same-day-launch-20261127.html
 - SEO 和 GEO 有什么区别？中小企业先做哪个更划算: https://www.gosite.com.cn/article-seo-vs-geo-20261127.html
 - 全年代运营到底管什么：官网上线之后的工作清单: https://www.gosite.com.cn/article-year-round-care-20261127.html
+- 没有文案团队，官网内容怎么写：中小企业的内容来源清单: https://www.gosite.com.cn/article-site-copy-20261128.html
+- 官网什么时候该重做：五个信号和改版时不能丢的东西: https://www.gosite.com.cn/article-site-redesign-20261128.html
+- 官网上线后怎么判断有没有效果：收录、访问、询盘三个指标: https://www.gosite.com.cn/article-site-result-20261128.html
 - 案例与资讯第2页: https://www.gosite.com.cn/hub-2.html
 - 案例与资讯第3页: https://www.gosite.com.cn/hub-3.html
 - 案例与资讯第4页: https://www.gosite.com.cn/hub-4.html
@@ -132,4 +135,4 @@ Key facts:
 - Cases page 5: https://www.gosite.com.cn/en/hub-5.html
 
 Canonical domain: https://www.gosite.com.cn
-Last updated: 2026-11-27
+Last updated: 2026-11-28
