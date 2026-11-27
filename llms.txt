@@ -99,8 +99,19 @@ Key facts:
 - Multilingual Sites Are Becoming Export Infrastructure: https://www.gosite.com.cn/en/article-trend-2.html
 - AI Answers Are Changing How Website Copy Is Written: https://www.gosite.com.cn/en/article-trend-3.html
 - www.gosite.com.cn Is Live: AI Website Building with Ongoing Care: https://www.gosite.com.cn/en/article-launch.html
+- Above the Fold: What a Business Website Should Say First: https://www.gosite.com.cn/en/article-en-design-above-fold-20261127.html
+- Colour and Spacing That Make a Website Easy to Read: https://www.gosite.com.cn/en/article-en-design-colour-20261127.html
+- Designing Product Pages for Buyers on Their Phone: https://www.gosite.com.cn/en/article-en-design-mobile-20261127.html
+- Search Is Moving from Ten Links to One Answer: https://www.gosite.com.cn/en/article-en-news-ai-answers-20261127.html
+- Bilingual Websites Are Becoming Export Infrastructure: https://www.gosite.com.cn/en/article-en-news-bilingual-20261127.html
+- Why Static Websites Are Becoming the Default for SMEs: https://www.gosite.com.cn/en/article-en-news-static-default-20261127.html
+- Writing Fact Paragraphs That Answer Engines Can Quote: https://www.gosite.com.cn/en/article-en-seo-fact-paragraphs-20261127.html
+- How hreflang Tells Google Which Language Version to Show: https://www.gosite.com.cn/en/article-en-seo-hreflang-20261127.html
+- Why Every Page Needs Its Own Title and Description: https://www.gosite.com.cn/en/article-en-seo-titles-20261127.html
 - Cases page 2: https://www.gosite.com.cn/en/hub-2.html
 - Cases page 3: https://www.gosite.com.cn/en/hub-3.html
+- Cases page 4: https://www.gosite.com.cn/en/hub-4.html
+- Cases page 5: https://www.gosite.com.cn/en/hub-5.html
 
 Canonical domain: https://www.gosite.com.cn
 Last updated: 2026-11-27
