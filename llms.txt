@@ -61,6 +61,21 @@ Key facts:
 - 商协会与集团官网怎么做：让内容被找到，也持续被看到: https://www.gosite.com.cn/article-solution-association-guide-20261126.html
 - 制造业出海官网怎么做：中英双语站从定位到收录的五步: https://www.gosite.com.cn/article-solution-crossborder-guide-20261126.html
 - 中小企业官网怎么做：把公司和产品讲清楚的三件事: https://www.gosite.com.cn/article-solution-enterprise-guide-20261126.html
+- 双语电子名片与分享卡片：让客户转发时也能看到你: https://www.gosite.com.cn/article-global-contact-card-20261124.html
+- 全球站怎么联系客户：电话、邮箱与即时通讯怎么放: https://www.gosite.com.cn/article-global-contact-channels-20261120.html
+- 全球站询盘表单怎么设计：降低客户发需求的门槛: https://www.gosite.com.cn/article-global-contact-enquiry-20261127.html
+- 全球站 GEO 怎么做：让不同市场与 AI 问答都读得懂: https://www.gosite.com.cn/article-global-geo-20261123.html
+- 全球站内容更新怎么做：让客户有理由再来，让搜索引擎常来: https://www.gosite.com.cn/article-global-get-content-20261127.html
+- 全球站如何优化获客：把访问变成询盘的五个动作: https://www.gosite.com.cn/article-global-get-leads-20261125.html
+- 全球站打开慢怎么办：静态站与边缘加速的组合: https://www.gosite.com.cn/article-global-get-speed-20261123.html
+- 全球站 SEO 怎么做：从关键词到站点地图的完整顺序: https://www.gosite.com.cn/article-global-seo-20261120.html
+- 全球站的 SEO 与 GEO 怎么配合：先被找到，再被正确引用: https://www.gosite.com.cn/article-global-seo-geo-together-20261126.html
+- 全球站公司实力怎么展示：让海外客户相信你靠得住: https://www.gosite.com.cn/article-global-show-company-20261126.html
+- 全球站首页展示什么：让海外客户三秒看懂你: https://www.gosite.com.cn/article-global-show-homepage-20261119.html
+- 全球站产品页展示什么：从参数表转成采购决策信息: https://www.gosite.com.cn/article-global-show-product-20261122.html
+- 中小企业为什么要做全球站：不是为了翻译，是为了被海外客户找到: https://www.gosite.com.cn/article-global-why-20261118.html
+- 什么时候该做全球站：四个信号说明时机到了: https://www.gosite.com.cn/article-global-why-timing-20261121.html
+- 全球业务展示的长期价值：把一次次询盘变成持续的自然流量: https://www.gosite.com.cn/article-global-why-value-20261124.html
 - 官网最快当天上线，到底是怎么做到的: https://www.gosite.com.cn/article-same-day-launch-20261127.html
 - SEO 和 GEO 有什么区别？中小企业先做哪个更划算: https://www.gosite.com.cn/article-seo-vs-geo-20261127.html
 - 全年代运营到底管什么：官网上线之后的工作清单: https://www.gosite.com.cn/article-year-round-care-20261127.html
@@ -69,6 +84,9 @@ Key facts:
 - 案例与资讯第4页: https://www.gosite.com.cn/hub-4.html
 - 案例与资讯第5页: https://www.gosite.com.cn/hub-5.html
 - 案例与资讯第6页: https://www.gosite.com.cn/hub-6.html
+- 案例与资讯第7页: https://www.gosite.com.cn/hub-7.html
+- 案例与资讯第8页: https://www.gosite.com.cn/hub-8.html
+- 案例与资讯第9页: https://www.gosite.com.cn/hub-9.html
 - 建站观察第2页: https://www.gosite.com.cn/news-2.html
 
 ## English pages
