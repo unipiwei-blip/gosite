@@ -61,6 +61,9 @@ Key facts:
 - 商协会与集团官网怎么做：让内容被找到，也持续被看到: https://www.gosite.com.cn/article-solution-association-guide-20261126.html
 - 制造业出海官网怎么做：中英双语站从定位到收录的五步: https://www.gosite.com.cn/article-solution-crossborder-guide-20261126.html
 - 中小企业官网怎么做：把公司和产品讲清楚的三件事: https://www.gosite.com.cn/article-solution-enterprise-guide-20261126.html
+- 官网最快当天上线，到底是怎么做到的: https://www.gosite.com.cn/article-same-day-launch-20261127.html
+- SEO 和 GEO 有什么区别？中小企业先做哪个更划算: https://www.gosite.com.cn/article-seo-vs-geo-20261127.html
+- 全年代运营到底管什么：官网上线之后的工作清单: https://www.gosite.com.cn/article-year-round-care-20261127.html
 - 案例与资讯第2页: https://www.gosite.com.cn/hub-2.html
 - 案例与资讯第3页: https://www.gosite.com.cn/hub-3.html
 - 案例与资讯第4页: https://www.gosite.com.cn/hub-4.html
@@ -100,4 +103,4 @@ Key facts:
 - Cases page 3: https://www.gosite.com.cn/en/hub-3.html
 
 Canonical domain: https://www.gosite.com.cn
-Last updated: 2026-11-26
+Last updated: 2026-11-27
