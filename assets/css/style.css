@@ -849,9 +849,10 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 
 /* 语言切换下拉 */
 .lang-drop{position:relative;display:inline-flex}
-.lang-menu{display:none;position:absolute;top:calc(100% + 8px);right:0;min-width:150px;
+.lang-menu{display:none;position:absolute;top:100%;right:0;min-width:150px;
   background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow-lg);
   padding:6px;z-index:70;flex-direction:column;gap:2px}
+.lang-menu::before{content:"";position:absolute;top:-14px;left:0;right:0;height:14px}
 .lang-drop:hover .lang-menu,.lang-drop:focus-within .lang-menu{display:flex}
 .lang-menu a{padding:8px 12px;border-radius:8px;font-size:13px;font-weight:700;color:var(--ink-2);white-space:nowrap}
 .lang-menu a:hover{background:rgba(26,107,255,.08);color:var(--blue-deep)}
