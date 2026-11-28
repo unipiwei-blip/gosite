@@ -856,3 +856,9 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .lang-menu a{padding:8px 12px;border-radius:8px;font-size:13px;font-weight:700;color:var(--ink-2);white-space:nowrap}
 .lang-menu a:hover{background:rgba(26,107,255,.08);color:var(--blue-deep)}
 .caret{font-size:10px;opacity:.7}
+
+.locale-pick{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;margin:18px 0 4px}
+.locale-pick span{font-size:13px;color:var(--muted);margin-right:4px}
+.locale-pick a{padding:5px 14px;border:1px solid var(--line);border-radius:99px;background:#fff;
+  font-size:13px;font-weight:700;color:var(--blue-deep)}
+.locale-pick a:hover{border-color:var(--blue);background:rgba(26,107,255,.06)}
