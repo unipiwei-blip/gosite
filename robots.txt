@@ -1,4 +1,38 @@
-User-agent: *
+# www.gosite.com.cn robots.txt
+# AI crawlers and search engines are explicitly allowed to crawl the entire site.
+User-agent: GPTBot
+Allow: /
+Allow: /assets/
+
+User-agent: OAI-SearchBot
+Allow: /
+Allow: /assets/
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /assets/
+
+User-agent: Bytespider
+Allow: /
+Allow: /assets/
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /assets/
+
+User-agent: Claude-Web
+Allow: /
+Allow: /assets/
+
+User-agent: Google-Extended
+Allow: /
+Allow: /assets/
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /assets/
+
+User-agent: Perplexity-User
 Allow: /
 Allow: /assets/
 
@@ -7,6 +41,18 @@ Allow: /
 Allow: /assets/
 
 User-agent: Googlebot
+Allow: /
+Allow: /assets/
+
+User-agent: Sogou spider
+Allow: /
+Allow: /assets/
+
+User-agent: 360Spider
+Allow: /
+Allow: /assets/
+
+User-agent: *
 Allow: /
 Allow: /assets/
 
