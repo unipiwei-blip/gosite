@@ -72,7 +72,7 @@ table{border-collapse:collapse}
 .brand{display:inline-flex;align-items:center;gap:10px;flex:0 0 auto}
 .brand img{width:34px;height:34px;object-fit:contain}
 .brand strong{font-size:20px;letter-spacing:.06em;color:var(--ink);font-weight:800}
-.nav-menu{display:flex;align-items:center;justify-content:center;gap:4px;flex:1 1 auto;flex-wrap:wrap}
+.nav-menu{display:flex;align-items:center;justify-content:center;gap:2px;flex:1 1 auto;flex-wrap:nowrap}
 .nav-menu a{
   padding:8px 13px;border-radius:10px;font-size:14px;color:var(--ink-2);
   transition:background .2s,color .2s;white-space:nowrap;
@@ -556,7 +556,7 @@ table{border-collapse:collapse}
 .f-more{margin-top:4px}
 .footer-full{margin-top:16px;padding-top:12px}
 .footer-bottom{margin-top:8px;padding-top:10px}
-.nav-menu a{padding:7px 10px;font-size:13.5px}
+.nav-menu a{padding:7px 8px;font-size:13px}
 .brand-slogan{font-size:12px;padding-left:12px}
 
 @media(max-width:720px){
@@ -846,3 +846,13 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .langbar a{padding:5px 14px;border:1px solid var(--line);border-radius:99px;background:#fff;
   color:var(--muted);font-size:13px;font-weight:700}
 .langbar a.active{background:var(--blue-deep);border-color:var(--blue-deep);color:#fff}
+
+/* 语言切换下拉 */
+.lang-drop{position:relative;display:inline-flex}
+.lang-menu{display:none;position:absolute;top:calc(100% + 8px);right:0;min-width:150px;
+  background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow-lg);
+  padding:6px;z-index:70;flex-direction:column;gap:2px}
+.lang-drop:hover .lang-menu,.lang-drop:focus-within .lang-menu{display:flex}
+.lang-menu a{padding:8px 12px;border-radius:8px;font-size:13px;font-weight:700;color:var(--ink-2);white-space:nowrap}
+.lang-menu a:hover{background:rgba(26,107,255,.08);color:var(--blue-deep)}
+.caret{font-size:10px;opacity:.7}
