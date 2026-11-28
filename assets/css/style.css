@@ -863,3 +863,10 @@ a.card .card-more{margin-top:16px;color:var(--blue-deep);font-weight:800;font-si
 .locale-pick a{padding:5px 14px;border:1px solid var(--line);border-radius:99px;background:#fff;
   font-size:13px;font-weight:700;color:var(--blue-deep)}
 .locale-pick a:hover{border-color:var(--blue);background:rgba(26,107,255,.06)}
+
+/* hero 内的三件套：深色半透明底 + 亮色文字，避免深色 hero 上白字浅底 */
+.hero .position-trio{margin:26px auto 4px;max-width:900px}
+.hero .trio-item{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);
+  backdrop-filter:blur(6px);color:#fff}
+.hero .trio-item b{color:#ffd76a;font-size:28px}
+.hero .trio-item>span:last-child{color:#eaf1ff;font-size:15px}
