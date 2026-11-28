@@ -82,6 +82,7 @@ Key facts:
 - 没有文案团队，官网内容怎么写：中小企业的内容来源清单: https://www.gosite.com.cn/article-site-copy-20261128.html
 - 官网什么时候该重做：五个信号和改版时不能丢的东西: https://www.gosite.com.cn/article-site-redesign-20261128.html
 - 官网上线后怎么判断有没有效果：收录、访问、询盘三个指标: https://www.gosite.com.cn/article-site-result-20261128.html
+- 全球展示: https://www.gosite.com.cn/global-showcase.html
 - 案例与资讯第2页: https://www.gosite.com.cn/hub-2.html
 - 案例与资讯第3页: https://www.gosite.com.cn/hub-3.html
 - 案例与资讯第4页: https://www.gosite.com.cn/hub-4.html
@@ -129,6 +130,7 @@ Key facts:
 - Writing Fact Paragraphs That Answer Engines Can Quote: https://www.gosite.com.cn/en/article-en-seo-fact-paragraphs-20261127.html
 - How hreflang Tells Google Which Language Version to Show: https://www.gosite.com.cn/en/article-en-seo-hreflang-20261127.html
 - Why Every Page Needs Its Own Title and Description: https://www.gosite.com.cn/en/article-en-seo-titles-20261127.html
+- Global Showcase: https://www.gosite.com.cn/en/global-showcase.html
 - Cases page 2: https://www.gosite.com.cn/en/hub-2.html
 - Cases page 3: https://www.gosite.com.cn/en/hub-3.html
 - Cases page 4: https://www.gosite.com.cn/en/hub-4.html
